@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_URL)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD_EMAIL)
 -->
-
+<img width="820" height="312" alt="Image" src="https://github.com/user-attachments/assets/4bfce860-6af1-4751-ba71-27bc0c393fd4" />
 <picture>
   <img src="banner.gif" width="100%" alt="banner">
 </picture>
